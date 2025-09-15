@@ -1,0 +1,773 @@
+{
+  "1": {
+    "total_inspections": 372,
+    "anomaly_count": 115,
+    "top_flags": {
+      "parts_mismatch": 94,
+      "overdue": 26,
+      "gps_mismatch": 2,
+      "impossible_travel": 1,
+      "privilege_abuse": 1,
+      "photo_anomaly": 1
+    },
+    "median_time_to_submit": 1725.5,
+    "avg_implied_velocity": 12.152853451415819
+  },
+  "2": {
+    "total_inspections": 384,
+    "anomaly_count": 120,
+    "top_flags": {
+      "parts_mismatch": 89,
+      "overdue": 31,
+      "photo_anomaly": 3,
+      "backdated": 3,
+      "impossible_travel": 2,
+      "collusion_suspected": 1,
+      "privilege_abuse": 1
+    },
+    "median_time_to_submit": 1682.5,
+    "avg_implied_velocity": 12.615185454506786
+  },
+  "3": {
+    "total_inspections": 403,
+    "anomaly_count": 139,
+    "top_flags": {
+      "parts_mismatch": 107,
+      "overdue": 30,
+      "photo_anomaly": 4,
+      "gps_mismatch": 3,
+      "impossible_travel": 2,
+      "rubber_stamp": 2,
+      "collusion_suspected": 1
+    },
+    "median_time_to_submit": 2027.0,
+    "avg_implied_velocity": 14.124779953769773
+  },
+  "4": {
+    "total_inspections": 412,
+    "anomaly_count": 142,
+    "top_flags": {
+      "parts_mismatch": 118,
+      "overdue": 29,
+      "photo_anomaly": 4,
+      "rubber_stamp": 2,
+      "collusion_suspected": 1,
+      "gps_mismatch": 1,
+      "backdated": 1,
+      "impossible_travel": 1
+    },
+    "median_time_to_submit": 1663.0,
+    "avg_implied_velocity": 12.51057637111537
+  },
+  "5": {
+    "total_inspections": 409,
+    "anomaly_count": 133,
+    "top_flags": {
+      "parts_mismatch": 105,
+      "overdue": 31,
+      "rubber_stamp": 2,
+      "privilege_abuse": 2,
+      "collusion_suspected": 1,
+      "gps_mismatch": 1,
+      "photo_anomaly": 1
+    },
+    "median_time_to_submit": 1769.0,
+    "avg_implied_velocity": 12.53753056234719
+  },
+  "6": {
+    "total_inspections": 420,
+    "anomaly_count": 138,
+    "top_flags": {
+      "parts_mismatch": 104,
+      "overdue": 35,
+      "gps_mismatch": 3,
+      "rubber_stamp": 3,
+      "backdated": 2,
+      "collusion_suspected": 1,
+      "photo_anomaly": 1,
+      "privilege_abuse": 1
+    },
+    "median_time_to_submit": 1747.5,
+    "avg_implied_velocity": 12.547428571428572
+  },
+  "7": {
+    "total_inspections": 414,
+    "anomaly_count": 107,
+    "top_flags": {
+      "parts_mismatch": 77,
+      "overdue": 21,
+      "backdated": 5,
+      "rubber_stamp": 4,
+      "privilege_abuse": 2,
+      "photo_anomaly": 2,
+      "gps_mismatch": 2,
+      "collusion_suspected": 2,
+      "impossible_travel": 1
+    },
+    "median_time_to_submit": 1645.5,
+    "avg_implied_velocity": 12.63056866407323
+  },
+  "8": {
+    "total_inspections": 414,
+    "anomaly_count": 130,
+    "top_flags": {
+      "parts_mismatch": 95,
+      "overdue": 37,
+      "gps_mismatch": 5,
+      "privilege_abuse": 4,
+      "rubber_stamp": 3,
+      "backdated": 1,
+      "collusion_suspected": 1,
+      "photo_anomaly": 1
+    },
+    "median_time_to_submit": 1798.0,
+    "avg_implied_velocity": 12.705096618357489
+  },
+  "9": {
+    "total_inspections": 388,
+    "anomaly_count": 121,
+    "top_flags": {
+      "parts_mismatch": 102,
+      "overdue": 22,
+      "photo_anomaly": 5,
+      "rubber_stamp": 3,
+      "gps_mismatch": 2,
+      "privilege_abuse": 1,
+      "impossible_travel": 1
+    },
+    "median_time_to_submit": 1872.0,
+    "avg_implied_velocity": 12.52000758033821
+  },
+  "10": {
+    "total_inspections": 437,
+    "anomaly_count": 144,
+    "top_flags": {
+      "parts_mismatch": 116,
+      "overdue": 23,
+      "backdated": 3,
+      "photo_anomaly": 3,
+      "collusion_suspected": 3,
+      "rubber_stamp": 2,
+      "privilege_abuse": 2,
+      "impossible_travel": 2,
+      "gps_mismatch": 1
+    },
+    "median_time_to_submit": 1856.0,
+    "avg_implied_velocity": 14.208707680350452
+  },
+  "11": {
+    "total_inspections": 423,
+    "anomaly_count": 140,
+    "top_flags": {
+      "parts_mismatch": 107,
+      "overdue": 32,
+      "gps_mismatch": 5,
+      "backdated": 2,
+      "collusion_suspected": 2,
+      "rubber_stamp": 1,
+      "photo_anomaly": 1,
+      "impossible_travel": 1,
+      "privilege_abuse": 1
+    },
+    "median_time_to_submit": 1797.0,
+    "avg_implied_velocity": 12.630876960332339
+  },
+  "12": {
+    "total_inspections": 417,
+    "anomaly_count": 124,
+    "top_flags": {
+      "parts_mismatch": 106,
+      "overdue": 21,
+      "rubber_stamp": 1,
+      "gps_mismatch": 1,
+      "impossible_travel": 1
+    },
+    "median_time_to_submit": 1826.0,
+    "avg_implied_velocity": 12.894157488141344
+  },
+  "13": {
+    "total_inspections": 398,
+    "anomaly_count": 131,
+    "top_flags": {
+      "parts_mismatch": 102,
+      "overdue": 37,
+      "impossible_travel": 4,
+      "photo_anomaly": 3,
+      "backdated": 2,
+      "collusion_suspected": 2,
+      "privilege_abuse": 1,
+      "gps_mismatch": 1
+    },
+    "median_time_to_submit": 1824.0,
+    "avg_implied_velocity": 15.141591907247363
+  },
+  "14": {
+    "total_inspections": 415,
+    "anomaly_count": 141,
+    "top_flags": {
+      "parts_mismatch": 112,
+      "overdue": 34,
+      "backdated": 4,
+      "impossible_travel": 4,
+      "privilege_abuse": 4,
+      "photo_anomaly": 3,
+      "rubber_stamp": 2,
+      "gps_mismatch": 1
+    },
+    "median_time_to_submit": 1777.0,
+    "avg_implied_velocity": 14.613617786439876
+  },
+  "15": {
+    "total_inspections": 403,
+    "anomaly_count": 122,
+    "top_flags": {
+      "parts_mismatch": 93,
+      "overdue": 31,
+      "rubber_stamp": 3,
+      "photo_anomaly": 2,
+      "backdated": 1,
+      "gps_mismatch": 1
+    },
+    "median_time_to_submit": 1871.0,
+    "avg_implied_velocity": 11.99697270471464
+  },
+  "16": {
+    "total_inspections": 361,
+    "anomaly_count": 107,
+    "top_flags": {
+      "parts_mismatch": 88,
+      "overdue": 20,
+      "photo_anomaly": 3,
+      "impossible_travel": 3,
+      "gps_mismatch": 2,
+      "collusion_suspected": 2
+    },
+    "median_time_to_submit": 2031.0,
+    "avg_implied_velocity": 13.73382824395511
+  },
+  "17": {
+    "total_inspections": 383,
+    "anomaly_count": 128,
+    "top_flags": {
+      "parts_mismatch": 100,
+      "overdue": 28,
+      "photo_anomaly": 5,
+      "gps_mismatch": 4,
+      "impossible_travel": 3,
+      "rubber_stamp": 2,
+      "privilege_abuse": 2,
+      "collusion_suspected": 1,
+      "backdated": 1
+    },
+    "median_time_to_submit": 1576.0,
+    "avg_implied_velocity": 15.442595672609094
+  },
+  "18": {
+    "total_inspections": 391,
+    "anomaly_count": 132,
+    "top_flags": {
+      "parts_mismatch": 99,
+      "overdue": 34,
+      "photo_anomaly": 3,
+      "rubber_stamp": 2,
+      "gps_mismatch": 2,
+      "privilege_abuse": 2,
+      "collusion_suspected": 1,
+      "impossible_travel": 1
+    },
+    "median_time_to_submit": 1678.0,
+    "avg_implied_velocity": 13.13858989123102
+  },
+  "19": {
+    "total_inspections": 384,
+    "anomaly_count": 132,
+    "top_flags": {
+      "parts_mismatch": 104,
+      "overdue": 32,
+      "gps_mismatch": 3,
+      "collusion_suspected": 1,
+      "rubber_stamp": 1,
+      "photo_anomaly": 1,
+      "impossible_travel": 1
+    },
+    "median_time_to_submit": 1760.0,
+    "avg_implied_velocity": 12.926639830627442
+  },
+  "20": {
+    "total_inspections": 396,
+    "anomaly_count": 111,
+    "top_flags": {
+      "parts_mismatch": 90,
+      "overdue": 24,
+      "gps_mismatch": 3,
+      "backdated": 3,
+      "photo_anomaly": 2,
+      "impossible_travel": 2
+    },
+    "median_time_to_submit": 1875.0,
+    "avg_implied_velocity": 13.810568250712988
+  },
+  "21": {
+    "total_inspections": 384,
+    "anomaly_count": 126,
+    "top_flags": {
+      "parts_mismatch": 96,
+      "overdue": 30,
+      "rubber_stamp": 3,
+      "privilege_abuse": 3,
+      "gps_mismatch": 2,
+      "impossible_travel": 1,
+      "backdated": 1
+    },
+    "median_time_to_submit": 1688.5,
+    "avg_implied_velocity": 12.485123224946875
+  },
+  "22": {
+    "total_inspections": 437,
+    "anomaly_count": 129,
+    "top_flags": {
+      "parts_mismatch": 95,
+      "overdue": 34,
+      "photo_anomaly": 4,
+      "impossible_travel": 3,
+      "gps_mismatch": 2,
+      "collusion_suspected": 1,
+      "privilege_abuse": 1
+    },
+    "median_time_to_submit": 1695.0,
+    "avg_implied_velocity": 13.429380172825658
+  },
+  "23": {
+    "total_inspections": 419,
+    "anomaly_count": 143,
+    "top_flags": {
+      "parts_mismatch": 108,
+      "overdue": 39,
+      "gps_mismatch": 4,
+      "rubber_stamp": 4,
+      "photo_anomaly": 2,
+      "impossible_travel": 2,
+      "backdated": 1,
+      "collusion_suspected": 1
+    },
+    "median_time_to_submit": 1691.0,
+    "avg_implied_velocity": 13.695058662617217
+  },
+  "24": {
+    "total_inspections": 404,
+    "anomaly_count": 142,
+    "top_flags": {
+      "parts_mismatch": 113,
+      "overdue": 31,
+      "impossible_travel": 4,
+      "gps_mismatch": 3,
+      "privilege_abuse": 2,
+      "rubber_stamp": 2,
+      "backdated": 1
+    },
+    "median_time_to_submit": 1877.5,
+    "avg_implied_velocity": 14.591981734335976
+  },
+  "25": {
+    "total_inspections": 418,
+    "anomaly_count": 122,
+    "top_flags": {
+      "parts_mismatch": 94,
+      "overdue": 31,
+      "rubber_stamp": 2,
+      "impossible_travel": 2,
+      "privilege_abuse": 2,
+      "gps_mismatch": 1
+    },
+    "median_time_to_submit": 1865.0,
+    "avg_implied_velocity": 13.242545605838153
+  },
+  "26": {
+    "total_inspections": 407,
+    "anomaly_count": 129,
+    "top_flags": {
+      "parts_mismatch": 101,
+      "overdue": 30,
+      "gps_mismatch": 3,
+      "collusion_suspected": 2,
+      "impossible_travel": 2,
+      "photo_anomaly": 2,
+      "privilege_abuse": 2,
+      "backdated": 2
+    },
+    "median_time_to_submit": 1923.0,
+    "avg_implied_velocity": 13.43112325438687
+  },
+  "27": {
+    "total_inspections": 380,
+    "anomaly_count": 130,
+    "top_flags": {
+      "parts_mismatch": 112,
+      "overdue": 23,
+      "backdated": 3,
+      "rubber_stamp": 2,
+      "impossible_travel": 2,
+      "collusion_suspected": 1,
+      "photo_anomaly": 1,
+      "privilege_abuse": 1
+    },
+    "median_time_to_submit": 1894.5,
+    "avg_implied_velocity": 12.938876265589586
+  },
+  "28": {
+    "total_inspections": 402,
+    "anomaly_count": 145,
+    "top_flags": {
+      "parts_mismatch": 103,
+      "overdue": 38,
+      "impossible_travel": 5,
+      "photo_anomaly": 4,
+      "gps_mismatch": 4,
+      "collusion_suspected": 2,
+      "backdated": 2,
+      "rubber_stamp": 2
+    },
+    "median_time_to_submit": 1829.0,
+    "avg_implied_velocity": 14.445640178470157
+  },
+  "29": {
+    "total_inspections": 424,
+    "anomaly_count": 130,
+    "top_flags": {
+      "parts_mismatch": 94,
+      "overdue": 35,
+      "photo_anomaly": 3,
+      "rubber_stamp": 2,
+      "gps_mismatch": 2,
+      "collusion_suspected": 1,
+      "backdated": 1
+    },
+    "median_time_to_submit": 1711.0,
+    "avg_implied_velocity": 12.00431603773585
+  },
+  "30": {
+    "total_inspections": 402,
+    "anomaly_count": 125,
+    "top_flags": {
+      "parts_mismatch": 98,
+      "overdue": 31,
+      "gps_mismatch": 3,
+      "photo_anomaly": 2,
+      "impossible_travel": 2,
+      "collusion_suspected": 1
+    },
+    "median_time_to_submit": 1935.5,
+    "avg_implied_velocity": 13.52278433620716
+  },
+  "31": {
+    "total_inspections": 391,
+    "anomaly_count": 120,
+    "top_flags": {
+      "parts_mismatch": 97,
+      "overdue": 28,
+      "photo_anomaly": 3,
+      "rubber_stamp": 1,
+      "collusion_suspected": 1
+    },
+    "median_time_to_submit": 1901.0,
+    "avg_implied_velocity": 11.93209718670077
+  },
+  "32": {
+    "total_inspections": 404,
+    "anomaly_count": 143,
+    "top_flags": {
+      "parts_mismatch": 103,
+      "overdue": 42,
+      "photo_anomaly": 5,
+      "impossible_travel": 3,
+      "collusion_suspected": 2,
+      "rubber_stamp": 2,
+      "privilege_abuse": 2,
+      "gps_mismatch": 1,
+      "backdated": 1
+    },
+    "median_time_to_submit": 1646.5,
+    "avg_implied_velocity": 14.361316103119618
+  },
+  "33": {
+    "total_inspections": 355,
+    "anomaly_count": 113,
+    "top_flags": {
+      "parts_mismatch": 92,
+      "overdue": 20,
+      "rubber_stamp": 4,
+      "photo_anomaly": 3,
+      "impossible_travel": 2,
+      "backdated": 1,
+      "privilege_abuse": 1,
+      "gps_mismatch": 1
+    },
+    "median_time_to_submit": 1720.0,
+    "avg_implied_velocity": 14.09907795713329
+  },
+  "34": {
+    "total_inspections": 407,
+    "anomaly_count": 137,
+    "top_flags": {
+      "parts_mismatch": 104,
+      "overdue": 38,
+      "gps_mismatch": 3,
+      "impossible_travel": 3,
+      "backdated": 1,
+      "rubber_stamp": 1,
+      "photo_anomaly": 1
+    },
+    "median_time_to_submit": 1805.0,
+    "avg_implied_velocity": 15.136371864475283
+  },
+  "35": {
+    "total_inspections": 406,
+    "anomaly_count": 131,
+    "top_flags": {
+      "parts_mismatch": 99,
+      "overdue": 33,
+      "collusion_suspected": 2,
+      "gps_mismatch": 2,
+      "photo_anomaly": 2,
+      "rubber_stamp": 2,
+      "backdated": 2,
+      "impossible_travel": 1
+    },
+    "median_time_to_submit": 1668.5,
+    "avg_implied_velocity": 12.601547003884694
+  },
+  "36": {
+    "total_inspections": 406,
+    "anomaly_count": 135,
+    "top_flags": {
+      "parts_mismatch": 103,
+      "overdue": 32,
+      "gps_mismatch": 3,
+      "photo_anomaly": 3,
+      "privilege_abuse": 3,
+      "collusion_suspected": 2,
+      "impossible_travel": 1
+    },
+    "median_time_to_submit": 1908.5,
+    "avg_implied_velocity": 13.398009584918148
+  },
+  "37": {
+    "total_inspections": 376,
+    "anomaly_count": 116,
+    "top_flags": {
+      "parts_mismatch": 95,
+      "overdue": 22,
+      "rubber_stamp": 2,
+      "photo_anomaly": 2,
+      "backdated": 1,
+      "privilege_abuse": 1,
+      "collusion_suspected": 1,
+      "impossible_travel": 1
+    },
+    "median_time_to_submit": 1878.0,
+    "avg_implied_velocity": 12.35703756590785
+  },
+  "38": {
+    "total_inspections": 391,
+    "anomaly_count": 134,
+    "top_flags": {
+      "parts_mismatch": 106,
+      "overdue": 29,
+      "gps_mismatch": 5,
+      "photo_anomaly": 2,
+      "backdated": 2,
+      "privilege_abuse": 2,
+      "impossible_travel": 1,
+      "collusion_suspected": 1
+    },
+    "median_time_to_submit": 1754.0,
+    "avg_implied_velocity": 12.672823753211283
+  },
+  "39": {
+    "total_inspections": 356,
+    "anomaly_count": 114,
+    "top_flags": {
+      "parts_mismatch": 89,
+      "overdue": 27,
+      "backdated": 3,
+      "impossible_travel": 2,
+      "privilege_abuse": 2,
+      "collusion_suspected": 2,
+      "rubber_stamp": 1,
+      "gps_mismatch": 1,
+      "photo_anomaly": 1
+    },
+    "median_time_to_submit": 1723.0,
+    "avg_implied_velocity": 14.158054870271592
+  },
+  "40": {
+    "total_inspections": 402,
+    "anomaly_count": 115,
+    "top_flags": {
+      "parts_mismatch": 85,
+      "overdue": 24,
+      "backdated": 4,
+      "photo_anomaly": 4,
+      "collusion_suspected": 2,
+      "gps_mismatch": 1,
+      "impossible_travel": 1,
+      "privilege_abuse": 1
+    },
+    "median_time_to_submit": 1823.0,
+    "avg_implied_velocity": 13.077794828009734
+  },
+  "41": {
+    "total_inspections": 384,
+    "anomaly_count": 111,
+    "top_flags": {
+      "parts_mismatch": 88,
+      "overdue": 28,
+      "impossible_travel": 3,
+      "photo_anomaly": 2,
+      "privilege_abuse": 1
+    },
+    "median_time_to_submit": 1768.0,
+    "avg_implied_velocity": 13.48621614375201
+  },
+  "42": {
+    "total_inspections": 388,
+    "anomaly_count": 133,
+    "top_flags": {
+      "parts_mismatch": 101,
+      "overdue": 40,
+      "impossible_travel": 3,
+      "privilege_abuse": 2,
+      "gps_mismatch": 2,
+      "backdated": 1,
+      "photo_anomaly": 1
+    },
+    "median_time_to_submit": 1933.0,
+    "avg_implied_velocity": 14.245160538203551
+  },
+  "43": {
+    "total_inspections": 428,
+    "anomaly_count": 143,
+    "top_flags": {
+      "parts_mismatch": 99,
+      "overdue": 45,
+      "rubber_stamp": 3,
+      "photo_anomaly": 3,
+      "gps_mismatch": 3,
+      "collusion_suspected": 2,
+      "impossible_travel": 1,
+      "backdated": 1
+    },
+    "median_time_to_submit": 1935.5,
+    "avg_implied_velocity": 12.279507794684983
+  },
+  "44": {
+    "total_inspections": 403,
+    "anomaly_count": 130,
+    "top_flags": {
+      "parts_mismatch": 106,
+      "overdue": 26,
+      "impossible_travel": 4,
+      "gps_mismatch": 2,
+      "photo_anomaly": 2,
+      "backdated": 2,
+      "rubber_stamp": 1,
+      "privilege_abuse": 1
+    },
+    "median_time_to_submit": 1908.0,
+    "avg_implied_velocity": 14.068329156531844
+  },
+  "45": {
+    "total_inspections": 435,
+    "anomaly_count": 148,
+    "top_flags": {
+      "parts_mismatch": 106,
+      "overdue": 44,
+      "impossible_travel": 3,
+      "gps_mismatch": 3,
+      "collusion_suspected": 2,
+      "photo_anomaly": 2,
+      "rubber_stamp": 1,
+      "backdated": 1
+    },
+    "median_time_to_submit": 1959.0,
+    "avg_implied_velocity": 13.82623135937405
+  },
+  "46": {
+    "total_inspections": 390,
+    "anomaly_count": 118,
+    "top_flags": {
+      "parts_mismatch": 94,
+      "overdue": 28,
+      "backdated": 4,
+      "photo_anomaly": 4,
+      "gps_mismatch": 2,
+      "privilege_abuse": 2,
+      "rubber_stamp": 1,
+      "impossible_travel": 1
+    },
+    "median_time_to_submit": 1834.0,
+    "avg_implied_velocity": 12.707912321276424
+  },
+  "47": {
+    "total_inspections": 387,
+    "anomaly_count": 115,
+    "top_flags": {
+      "parts_mismatch": 92,
+      "overdue": 29,
+      "photo_anomaly": 3,
+      "privilege_abuse": 1,
+      "backdated": 1,
+      "collusion_suspected": 1,
+      "gps_mismatch": 1,
+      "impossible_travel": 1
+    },
+    "median_time_to_submit": 1973.0,
+    "avg_implied_velocity": 12.703379696117024
+  },
+  "48": {
+    "total_inspections": 397,
+    "anomaly_count": 134,
+    "top_flags": {
+      "parts_mismatch": 108,
+      "overdue": 29,
+      "photo_anomaly": 5,
+      "impossible_travel": 3,
+      "rubber_stamp": 2,
+      "backdated": 1,
+      "gps_mismatch": 1
+    },
+    "median_time_to_submit": 1897.0,
+    "avg_implied_velocity": 13.780279349453615
+  },
+  "49": {
+    "total_inspections": 409,
+    "anomaly_count": 148,
+    "top_flags": {
+      "parts_mismatch": 116,
+      "overdue": 29,
+      "rubber_stamp": 2,
+      "gps_mismatch": 1,
+      "photo_anomaly": 1,
+      "backdated": 1,
+      "impossible_travel": 1
+    },
+    "median_time_to_submit": 1842.0,
+    "avg_implied_velocity": 12.373229000142707
+  },
+  "50": {
+    "total_inspections": 384,
+    "anomaly_count": 124,
+    "top_flags": {
+      "parts_mismatch": 93,
+      "overdue": 35,
+      "gps_mismatch": 3,
+      "backdated": 2,
+      "photo_anomaly": 1,
+      "rubber_stamp": 1,
+      "privilege_abuse": 1,
+      "impossible_travel": 1
+    },
+    "median_time_to_submit": 1945.0,
+    "avg_implied_velocity": 12.145549524672129
+  }
+}

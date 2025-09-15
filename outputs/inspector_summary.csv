@@ -1,0 +1,51 @@
+inspector_id,total_inspections,anomaly_count,top_flags,median_time_to_submit,avg_implied_velocity
+1,372,115,"{'parts_mismatch': 94, 'overdue': 26, 'gps_mismatch': 2, 'impossible_travel': 1, 'privilege_abuse': 1, 'photo_anomaly': 1}",1725.5,12.152853451415819
+2,384,120,"{'parts_mismatch': 89, 'overdue': 31, 'photo_anomaly': 3, 'backdated': 3, 'impossible_travel': 2, 'collusion_suspected': 1, 'privilege_abuse': 1}",1682.5,12.615185454506786
+3,403,139,"{'parts_mismatch': 107, 'overdue': 30, 'photo_anomaly': 4, 'gps_mismatch': 3, 'impossible_travel': 2, 'rubber_stamp': 2, 'collusion_suspected': 1}",2027.0,14.124779953769773
+4,412,142,"{'parts_mismatch': 118, 'overdue': 29, 'photo_anomaly': 4, 'rubber_stamp': 2, 'collusion_suspected': 1, 'gps_mismatch': 1, 'backdated': 1, 'impossible_travel': 1}",1663.0,12.51057637111537
+5,409,133,"{'parts_mismatch': 105, 'overdue': 31, 'rubber_stamp': 2, 'privilege_abuse': 2, 'collusion_suspected': 1, 'gps_mismatch': 1, 'photo_anomaly': 1}",1769.0,12.53753056234719
+6,420,138,"{'parts_mismatch': 104, 'overdue': 35, 'gps_mismatch': 3, 'rubber_stamp': 3, 'backdated': 2, 'collusion_suspected': 1, 'photo_anomaly': 1, 'privilege_abuse': 1}",1747.5,12.547428571428572
+7,414,107,"{'parts_mismatch': 77, 'overdue': 21, 'backdated': 5, 'rubber_stamp': 4, 'privilege_abuse': 2, 'photo_anomaly': 2, 'gps_mismatch': 2, 'collusion_suspected': 2, 'impossible_travel': 1}",1645.5,12.63056866407323
+8,414,130,"{'parts_mismatch': 95, 'overdue': 37, 'gps_mismatch': 5, 'privilege_abuse': 4, 'rubber_stamp': 3, 'backdated': 1, 'collusion_suspected': 1, 'photo_anomaly': 1}",1798.0,12.705096618357489
+9,388,121,"{'parts_mismatch': 102, 'overdue': 22, 'photo_anomaly': 5, 'rubber_stamp': 3, 'gps_mismatch': 2, 'privilege_abuse': 1, 'impossible_travel': 1}",1872.0,12.52000758033821
+10,437,144,"{'parts_mismatch': 116, 'overdue': 23, 'backdated': 3, 'photo_anomaly': 3, 'collusion_suspected': 3, 'rubber_stamp': 2, 'privilege_abuse': 2, 'impossible_travel': 2, 'gps_mismatch': 1}",1856.0,14.208707680350452
+11,423,140,"{'parts_mismatch': 107, 'overdue': 32, 'gps_mismatch': 5, 'backdated': 2, 'collusion_suspected': 2, 'rubber_stamp': 1, 'photo_anomaly': 1, 'impossible_travel': 1, 'privilege_abuse': 1}",1797.0,12.630876960332339
+12,417,124,"{'parts_mismatch': 106, 'overdue': 21, 'rubber_stamp': 1, 'gps_mismatch': 1, 'impossible_travel': 1}",1826.0,12.894157488141344
+13,398,131,"{'parts_mismatch': 102, 'overdue': 37, 'impossible_travel': 4, 'photo_anomaly': 3, 'backdated': 2, 'collusion_suspected': 2, 'privilege_abuse': 1, 'gps_mismatch': 1}",1824.0,15.141591907247363
+14,415,141,"{'parts_mismatch': 112, 'overdue': 34, 'backdated': 4, 'impossible_travel': 4, 'privilege_abuse': 4, 'photo_anomaly': 3, 'rubber_stamp': 2, 'gps_mismatch': 1}",1777.0,14.613617786439876
+15,403,122,"{'parts_mismatch': 93, 'overdue': 31, 'rubber_stamp': 3, 'photo_anomaly': 2, 'backdated': 1, 'gps_mismatch': 1}",1871.0,11.99697270471464
+16,361,107,"{'parts_mismatch': 88, 'overdue': 20, 'photo_anomaly': 3, 'impossible_travel': 3, 'gps_mismatch': 2, 'collusion_suspected': 2}",2031.0,13.73382824395511
+17,383,128,"{'parts_mismatch': 100, 'overdue': 28, 'photo_anomaly': 5, 'gps_mismatch': 4, 'impossible_travel': 3, 'rubber_stamp': 2, 'privilege_abuse': 2, 'collusion_suspected': 1, 'backdated': 1}",1576.0,15.442595672609094
+18,391,132,"{'parts_mismatch': 99, 'overdue': 34, 'photo_anomaly': 3, 'rubber_stamp': 2, 'gps_mismatch': 2, 'privilege_abuse': 2, 'collusion_suspected': 1, 'impossible_travel': 1}",1678.0,13.13858989123102
+19,384,132,"{'parts_mismatch': 104, 'overdue': 32, 'gps_mismatch': 3, 'collusion_suspected': 1, 'rubber_stamp': 1, 'photo_anomaly': 1, 'impossible_travel': 1}",1760.0,12.926639830627442
+20,396,111,"{'parts_mismatch': 90, 'overdue': 24, 'gps_mismatch': 3, 'backdated': 3, 'photo_anomaly': 2, 'impossible_travel': 2}",1875.0,13.810568250712988
+21,384,126,"{'parts_mismatch': 96, 'overdue': 30, 'rubber_stamp': 3, 'privilege_abuse': 3, 'gps_mismatch': 2, 'impossible_travel': 1, 'backdated': 1}",1688.5,12.485123224946875
+22,437,129,"{'parts_mismatch': 95, 'overdue': 34, 'photo_anomaly': 4, 'impossible_travel': 3, 'gps_mismatch': 2, 'collusion_suspected': 1, 'privilege_abuse': 1}",1695.0,13.429380172825658
+23,419,143,"{'parts_mismatch': 108, 'overdue': 39, 'gps_mismatch': 4, 'rubber_stamp': 4, 'photo_anomaly': 2, 'impossible_travel': 2, 'backdated': 1, 'collusion_suspected': 1}",1691.0,13.695058662617217
+24,404,142,"{'parts_mismatch': 113, 'overdue': 31, 'impossible_travel': 4, 'gps_mismatch': 3, 'privilege_abuse': 2, 'rubber_stamp': 2, 'backdated': 1}",1877.5,14.591981734335976
+25,418,122,"{'parts_mismatch': 94, 'overdue': 31, 'rubber_stamp': 2, 'impossible_travel': 2, 'privilege_abuse': 2, 'gps_mismatch': 1}",1865.0,13.242545605838153
+26,407,129,"{'parts_mismatch': 101, 'overdue': 30, 'gps_mismatch': 3, 'collusion_suspected': 2, 'impossible_travel': 2, 'photo_anomaly': 2, 'privilege_abuse': 2, 'backdated': 2}",1923.0,13.43112325438687
+27,380,130,"{'parts_mismatch': 112, 'overdue': 23, 'backdated': 3, 'rubber_stamp': 2, 'impossible_travel': 2, 'collusion_suspected': 1, 'photo_anomaly': 1, 'privilege_abuse': 1}",1894.5,12.938876265589586
+28,402,145,"{'parts_mismatch': 103, 'overdue': 38, 'impossible_travel': 5, 'photo_anomaly': 4, 'gps_mismatch': 4, 'collusion_suspected': 2, 'backdated': 2, 'rubber_stamp': 2}",1829.0,14.445640178470157
+29,424,130,"{'parts_mismatch': 94, 'overdue': 35, 'photo_anomaly': 3, 'rubber_stamp': 2, 'gps_mismatch': 2, 'collusion_suspected': 1, 'backdated': 1}",1711.0,12.00431603773585
+30,402,125,"{'parts_mismatch': 98, 'overdue': 31, 'gps_mismatch': 3, 'photo_anomaly': 2, 'impossible_travel': 2, 'collusion_suspected': 1}",1935.5,13.52278433620716
+31,391,120,"{'parts_mismatch': 97, 'overdue': 28, 'photo_anomaly': 3, 'rubber_stamp': 1, 'collusion_suspected': 1}",1901.0,11.93209718670077
+32,404,143,"{'parts_mismatch': 103, 'overdue': 42, 'photo_anomaly': 5, 'impossible_travel': 3, 'collusion_suspected': 2, 'rubber_stamp': 2, 'privilege_abuse': 2, 'gps_mismatch': 1, 'backdated': 1}",1646.5,14.361316103119618
+33,355,113,"{'parts_mismatch': 92, 'overdue': 20, 'rubber_stamp': 4, 'photo_anomaly': 3, 'impossible_travel': 2, 'backdated': 1, 'privilege_abuse': 1, 'gps_mismatch': 1}",1720.0,14.09907795713329
+34,407,137,"{'parts_mismatch': 104, 'overdue': 38, 'gps_mismatch': 3, 'impossible_travel': 3, 'backdated': 1, 'rubber_stamp': 1, 'photo_anomaly': 1}",1805.0,15.136371864475283
+35,406,131,"{'parts_mismatch': 99, 'overdue': 33, 'collusion_suspected': 2, 'gps_mismatch': 2, 'photo_anomaly': 2, 'rubber_stamp': 2, 'backdated': 2, 'impossible_travel': 1}",1668.5,12.601547003884694
+36,406,135,"{'parts_mismatch': 103, 'overdue': 32, 'gps_mismatch': 3, 'photo_anomaly': 3, 'privilege_abuse': 3, 'collusion_suspected': 2, 'impossible_travel': 1}",1908.5,13.398009584918148
+37,376,116,"{'parts_mismatch': 95, 'overdue': 22, 'rubber_stamp': 2, 'photo_anomaly': 2, 'backdated': 1, 'privilege_abuse': 1, 'collusion_suspected': 1, 'impossible_travel': 1}",1878.0,12.35703756590785
+38,391,134,"{'parts_mismatch': 106, 'overdue': 29, 'gps_mismatch': 5, 'photo_anomaly': 2, 'backdated': 2, 'privilege_abuse': 2, 'impossible_travel': 1, 'collusion_suspected': 1}",1754.0,12.672823753211283
+39,356,114,"{'parts_mismatch': 89, 'overdue': 27, 'backdated': 3, 'impossible_travel': 2, 'privilege_abuse': 2, 'collusion_suspected': 2, 'rubber_stamp': 1, 'gps_mismatch': 1, 'photo_anomaly': 1}",1723.0,14.158054870271592
+40,402,115,"{'parts_mismatch': 85, 'overdue': 24, 'backdated': 4, 'photo_anomaly': 4, 'collusion_suspected': 2, 'gps_mismatch': 1, 'impossible_travel': 1, 'privilege_abuse': 1}",1823.0,13.077794828009734
+41,384,111,"{'parts_mismatch': 88, 'overdue': 28, 'impossible_travel': 3, 'photo_anomaly': 2, 'privilege_abuse': 1}",1768.0,13.48621614375201
+42,388,133,"{'parts_mismatch': 101, 'overdue': 40, 'impossible_travel': 3, 'privilege_abuse': 2, 'gps_mismatch': 2, 'backdated': 1, 'photo_anomaly': 1}",1933.0,14.245160538203551
+43,428,143,"{'parts_mismatch': 99, 'overdue': 45, 'rubber_stamp': 3, 'photo_anomaly': 3, 'gps_mismatch': 3, 'collusion_suspected': 2, 'impossible_travel': 1, 'backdated': 1}",1935.5,12.279507794684983
+44,403,130,"{'parts_mismatch': 106, 'overdue': 26, 'impossible_travel': 4, 'gps_mismatch': 2, 'photo_anomaly': 2, 'backdated': 2, 'rubber_stamp': 1, 'privilege_abuse': 1}",1908.0,14.068329156531844
+45,435,148,"{'parts_mismatch': 106, 'overdue': 44, 'impossible_travel': 3, 'gps_mismatch': 3, 'collusion_suspected': 2, 'photo_anomaly': 2, 'rubber_stamp': 1, 'backdated': 1}",1959.0,13.82623135937405
+46,390,118,"{'parts_mismatch': 94, 'overdue': 28, 'backdated': 4, 'photo_anomaly': 4, 'gps_mismatch': 2, 'privilege_abuse': 2, 'rubber_stamp': 1, 'impossible_travel': 1}",1834.0,12.707912321276424
+47,387,115,"{'parts_mismatch': 92, 'overdue': 29, 'photo_anomaly': 3, 'privilege_abuse': 1, 'backdated': 1, 'collusion_suspected': 1, 'gps_mismatch': 1, 'impossible_travel': 1}",1973.0,12.703379696117024
+48,397,134,"{'parts_mismatch': 108, 'overdue': 29, 'photo_anomaly': 5, 'impossible_travel': 3, 'rubber_stamp': 2, 'backdated': 1, 'gps_mismatch': 1}",1897.0,13.780279349453615
+49,409,148,"{'parts_mismatch': 116, 'overdue': 29, 'rubber_stamp': 2, 'gps_mismatch': 1, 'photo_anomaly': 1, 'backdated': 1, 'impossible_travel': 1}",1842.0,12.373229000142707
+50,384,124,"{'parts_mismatch': 93, 'overdue': 35, 'gps_mismatch': 3, 'backdated': 2, 'photo_anomaly': 1, 'rubber_stamp': 1, 'privilege_abuse': 1, 'impossible_travel': 1}",1945.0,12.145549524672129
